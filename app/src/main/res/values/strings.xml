@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UnitTest19110239</string>
+
+    <string name="type_operand_one_hint">Type X or N</string>
+
+    <!-- Hint for second operand EditText -->
+    <string name="type_operand_two_hint">Type Y</string>
+
+    <!-- Button label for add operation -->
+    <string name="add_operation_text">x+y</string>
+
+    <!-- Button label for subtract operation -->
+    <string name="sub_operation_text">x-y</string>
+
+    <!-- Button label for divide operation -->
+    <string name="div_operation_text">x/y</string>
+
+    <!-- Button label for mul operation -->
+    <string name="mul_operation_text">x*y</string>
+
+    <!-- Message for textview in case of errors  -->
+    <string name="computationError">Error</string>
+    <string name="pow_operation_text">xʸ</string>
+    <string name="log_operation_text">LOGₓY</string>
+    <string name="fact_operation_text">n!</string>
+</resources>
